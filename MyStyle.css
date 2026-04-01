@@ -21,7 +21,7 @@ nav a {
   margin: 10px;
 }
 
-nav a:hover { color: #00bfff; }
+nav a: hover { color: #00bfff; }
 
 section { padding: 30px 20px; }
 h2 { color: #00bfff; margin-bottom: 15px; }
@@ -33,7 +33,7 @@ h2 { color: #00bfff; margin-bottom: 15px; }
   margin-bottom: 15px;
 }
 
-.btn {
+.botao {
   display: inline-block;
   padding: 6px 10px;
   background-color: #00bfff;
@@ -43,7 +43,7 @@ h2 { color: #00bfff; margin-bottom: 15px; }
   margin-top: 10px;
 }
 
-.btn:hover { background-color: #0099cc; }
+.botao: hover { background-color: #0099cc; }
 
 footer {
   background-color: #2e2e4d;
